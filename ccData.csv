@@ -1,0 +1,35 @@
+﻿School,Department,CourseNumber,CourseTitle,ClassSize,Average_GPA
+Engineering,CS,4111,INTRODUCTION TO DATABASES,653,3.58
+Engineering,CS,4731,Computer Vision I: First Principles,78,3.76
+Engineering,CS,6156,TOPICS IN SOFTWARE ENGINEERING,395,3.22
+Engineering,IEOR,4101,PROBABILITY STAT & SIMULATION,271,3.19
+Engineering,IEOR,4106,STOCHASTIC MODELS,110,3.25
+Engineering,IEOR,4799,MSFE Quantitative and Computational Boot,95,3.66
+Engineering,CSEE,4119,COMPUTER NETWORKS,156,3.57
+Engineering,CSEE,4868,SYSTEM-ON-CHIP PLATFORMS,73,3.48
+Engineering,CSEE,6863,FORMAL VERIF HW SW SYSTEMS,53,3.77
+Law,LAW,6581,ADVANCED FAMILY LAW,16,3.33
+Law,LAW,6133,CONSTITUTIONAL LAW,103,3.64
+Law,LAW,6474,LAW OF THE POLITICAL PROCESS,61,3.44
+Teachers College,A&H,4003,Inclusion and Participation in the Arts for Children with Disabilities,38,2.99
+Teachers College,A&H,4065,Media and Gender,16,3.15
+Teachers College,A&H,6900,Adv Rsrch: Arts & Humanities,47,3.64
+Teachers College,A&H,5922,Master's Seminar in Art Education,17,3.84
+Teachers College,BS,4032,Neuroscience of Speech and Language,60,3.21
+Teachers College,BS,5019,Human Functional Neuroanatomy,34,3.54
+Teachers College,BS,5210,Practicum in school speech-language pathology,67,3
+Teachers College,EDP,4026,Understanding Race Education: From Racial Hierarchy to Racial Literacy,28,3.27
+Teachers College,EDP,4002,Data Analysis for Policy and Decision Making I,63,3.51
+Teachers College,EDP,4899,Federal Policy Institute,28,3.6
+Teachers College,EDP,4050,Economics of Education,33,3.64
+Professional Studies,AA,5100,APPLIED ANALYTICS IN ORGANIZATIONAL CONT,,3.8
+Professional Studies,AA,5210,PYTHON FOR DATA ANALYSIS,71,3.7
+Professional Studies,AA,5310,SQL,77,3.66
+Professional Studies,AA,5450,CLOUD COMPUTING,57,3.55
+Professional Studies,AA,5700,ANALYTICS & LEADING CHANGE,326,3.44
+Professional Studies,AA,5800,STORYTELLING WITH DATA,608,3.88
+Professional Studies,HCM,5100,INTRODUCTION TO HUMAN CAPITAL MANAGEMENT,40,3.46
+Professional Studies,HCM,5160,PEOPLE ANALYTICS & DECISION MAKING,32,3.79
+Professional Studies,HCM,5270,TRANSFORMING TOTAL REWARDS,43,3.31
+Professional Studies,SM,5220,FOUNDATIONS OF SPORTS MANAGEMENT,42,3.56
+Professional Studies,SM,5460,SPORTS LAW AND ETHICS,46,3.76
